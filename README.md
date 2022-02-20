@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tarunbalaji2003
+- 👋 Hi, I’m Tarunbalaji
 - 👀 I’m interested in working in doamins of cyber security , ethical hacking and aritifcial intelligence
 - 🌱 I’m currently learning julia , C, java, python, CPP ,cybersecurity, deep learning, machine learning and nlp...
 - 💞️ I’m looking to collaborate on company provide internships
