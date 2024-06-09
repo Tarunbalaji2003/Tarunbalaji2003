@@ -5,11 +5,11 @@ I am a B.Tech (Hons) student specializing in Artificial Intelligence & Data Scie
 
 ## Projects
 
-### [Number Plate Recognition System Using NVIDIA DeepStream SDK and YOLOv5](https://github.com/Tarunbalaji2003/Deepstream_Number-plate)
-### [GPT-Based Course Recommender and Query Solver](https://github.com/Tarunbalaji2003/GPT-for-CourseRecommendations)
-### [End to End CICD Implementation — Jenkins](https://github.com/Tarunbalaji2003/CI-CD-Jenkins)
-### [RASA Chatbot for Weather Prediction](https://github.com/Tarunbalaji2003/Rasa_Chatbot)
-### [Kubernetes Cluster Monitoring](https://github.com/Tarunbalaji2003/Kubernetes-Monitoring)
+#### [Number Plate Recognition System Using NVIDIA DeepStream SDK and YOLOv5](https://github.com/Tarunbalaji2003/Deepstream_Number-plate)
+#### [GPT-Based Course Recommender and Query Solver](https://github.com/Tarunbalaji2003/GPT-for-CourseRecommendations)
+#### [End to End CICD Implementation — Jenkins](https://github.com/Tarunbalaji2003/CI-CD-Jenkins)
+#### [RASA Chatbot for Weather Prediction](https://github.com/Tarunbalaji2003/Rasa_Chatbot)
+#### [Kubernetes Cluster Monitoring](https://github.com/Tarunbalaji2003/Kubernetes-Monitoring)
 
 # 💻 Tech Stack:
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
