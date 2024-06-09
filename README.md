@@ -1,5 +1,5 @@
 # Hi there, I'm Tarunbalaji S! 👋
-![](/Cover photo.png)
+![Photo](./Cover-photo.png)
 <h2 align="center">
 I'm a aspring DevOps Engineer💻 and AI enthusiast!
 </h2> 
