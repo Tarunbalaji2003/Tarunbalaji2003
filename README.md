@@ -18,7 +18,7 @@ I am a B.Tech (Hons) student specializing in Artificial Intelligence & Data Scie
 # Social 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunbalaji/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Tarunbalaji17/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tarunbalaji170703) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tarunbalaji170703@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:tarunbalaji170703@gmail.com)
 
 
 
