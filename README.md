@@ -1,8 +1,8 @@
-# Hi there, I'm Tarunbalaji S! 👋
+
 ![Photo](./Cover-photo.png)
-<h3 align="center">
+<h2 align="center">
 # Hi there, I'm Tarunbalaji S! 👋
-</h3>
+</h2>
 <h2 align="center">
 I'm a aspring DevOps Engineer💻 and AI enthusiast!
 </h2> 
